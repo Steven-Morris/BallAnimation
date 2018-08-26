@@ -1,2 +1,0 @@
-# BallAnimation
-Created with CodeSandbox
